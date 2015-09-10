@@ -1,5 +1,5 @@
 {
-  "locales": [ "ja-jp", "de-de", "es-es", "dummy locale" ],
+  "locales": [ "ja-jp", "de-de", "es-es" ],
   "files": [
 	"virtualization/**/*.md"
   ],
