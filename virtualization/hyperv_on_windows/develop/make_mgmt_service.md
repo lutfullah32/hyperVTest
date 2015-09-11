@@ -5,7 +5,7 @@ title: Make a new management service
 This document introduces VM Services built on Hyper-V sockets and how to get started using them.
 
 ## What is a VM Service?
-VM Services are services that span the Hyper-V host and virtual machines running on the host.
+Adding this sentence for testing HO-HB process. VM Services are services that span the Hyper-V host and virtual machines running on the host.
 
 Hyper-V now (Windows 10 and Server 2016+) provides a non-network connection which allows you to create services spanning the host/virtual machine boundary while preserving Hyper-V’s fundamental requirements around tenant/hoster isolation, control, and diagnosable.
 
