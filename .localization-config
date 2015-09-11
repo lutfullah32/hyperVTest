@@ -1,10 +1,10 @@
 {
-  "locales": [ "ja-jp", "de-de", "es-es", "zh-cn" ],
+  "locales": [ "ja-jp", "de-de", "es-es", "zh-cn", "zh-tw" ],
   "files": [
 	"**/*.md",
 	"**/**/*.md", 
 	"**/**/**/*.md"
   ],
-  "includeDependencies": true,
+  "includeDependencies": false,
   "autoPush": true
 }
