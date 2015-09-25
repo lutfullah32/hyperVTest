@@ -22,7 +22,11 @@ Start contributing to Open Publishing docs using the following steps:
    ```
 
 4. Wait for a moment and your changes will be automatically published to:
-<TBD>
+
+-	Docset 1: msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/community
+-	Docset 2: msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/hyperv_on_windows
+-	Docset 3: msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/windowscontainers
+
 
 > If you don't have the permission to push to this repo, fork it to your own account and use pull request to submit your changes back.
 
