@@ -21,7 +21,7 @@ Start contributing to Open Publishing docs using the following steps:
    git push
    ```
 
-4. Wait for a moment and your changes will be automatically published to:
+4. Wait for a moment and your changes will be automatically published to :
 
 -	Docset 1: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/community
 -	Docset 2: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/hyperv_on_windows
