@@ -3,7 +3,7 @@ title: Containers Welcome
 
 # Windows Containers
 
-Hey! This is a test update to see if this update will get excluded from the HO creation. Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
+Hey! This is a test update to see if this update will get include in the HO creation. Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
 
 The following table list topics that provide more information about Windows containers, a guided quick start so that you can try out Windows containers, and additional resources.
 
