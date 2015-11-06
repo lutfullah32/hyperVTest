@@ -3,6 +3,7 @@
   "files": [
 	"virtualization/community/*.md",
 	"virtualization/hyperv_on_windows/**/*.md", 
+	"virtualization/windowscontainers/containers_welcome.md"
   ],
   "includeDependencies": true,
   "autoPush": true
