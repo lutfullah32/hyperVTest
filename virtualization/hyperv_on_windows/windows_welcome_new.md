@@ -50,7 +50,7 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 			<p>Additional technical support and community resources</p>
 			<ul>
 				<li class="unordered"> Have questions? Ask them on the [Hyper-V forums](https://social.technet.microsoft.com/Forums/windowsserver/en-US/home?forum=winserverhyperv)<br /><br /></li>
-				<li class="unordered">[Community Resources for Hyper-V and Windows Containers](..\community\community_overview.md)<br /><br /></li>
+				<li class="unordered">[Community Resources for Hyper-V and Windows Containers](/community/community_overview.md)<br /><br /></li>
 			</ul>	
 		</td>
 	</tr>
