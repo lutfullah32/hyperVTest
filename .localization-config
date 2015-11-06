@@ -1,9 +1,8 @@
 {
   "locales": [ "ja-jp", "de-de", "fr-fr", "zh-cn", "zh-tw", "ko-kr", "es-es" ],
   "files": [
-	"**/*.md",
-	"**/**/*.md", 
-	"**/**/**/*.md"
+	"virtualization/community/*.md",
+	"virtualization/hyperv_on_windows/**/*.md", 
   ],
   "includeDependencies": true,
   "autoPush": true
