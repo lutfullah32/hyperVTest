@@ -7,7 +7,7 @@ This is a test. This document introduces VM Services built on Hyper-V sockets an
 ## What is a VM Service?
 Adding this sentence for testing HO-HB process. VM Services are services that span the Hyper-V host and virtual machines running on the host.
 
-Hyper-V now (Windows 10 and Server 2016+) provides a non-network connection which allows you to create services spanning the host/virtual machine boundary while preserving Hyper-V’s fundamental requirements around tenant/hoster isolation, control, and diagnosable.
+Test update to verify the bug fixing. Hyper-V now (Windows 10 and Server 2016+) provides a non-network connection which allows you to create services spanning the host/virtual machine boundary while preserving Hyper-V’s fundamental requirements around tenant/hoster isolation, control, and diagnosable.
 
 Hyper-V will continue to provide a base set of in-box services (integration services) for basics (such as time sync) and for common requests we receive, but now anyone can write and deploy a VM service as needed.
 
