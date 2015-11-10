@@ -3,7 +3,7 @@ title: Community Resources
 
 # Community Resources 
 
-Hey! This is test update. Check out resources available to the user community. There is also a lot to see on the [Docker community](https://www.docker.com/community/participate/) pages.
+Hey! This is test update on 10-Nov. Check out resources available to the user community. There is also a lot to see on the [Docker community](https://www.docker.com/community/participate/) pages.
 
 ## Contribute 
 
