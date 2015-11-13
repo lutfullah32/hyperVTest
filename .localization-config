@@ -4,7 +4,9 @@
 	"virtualization/community/*.md",
 	"virtualization/community/**/*.md",
 	"virtualization/hyperv_on_windows/**/*.md", 
-	"virtualization/windowscontainers/*.md"
+	"virtualization/hyperv_on_windows/*.md",
+	"virtualization/windowscontainers/*.md",
+	"virtualization/windowscontainers/**/*.md"
   ],
   "includeDependencies": true,
   "autoPush": true
