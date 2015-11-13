@@ -86,7 +86,7 @@
   </Target>
   <Target DependsOnTargets="Generate" Name="Serve">
     <Message Text="$(BuildProjectPath)" />
-    <MSBuild Projects="$(BuildProjectPath)" Targets="DocServe" Properties="DocfxConfigFile=%(DocfxConfigFile.FullPath);OutputFolder=$(OutputFolder);IsServing=True;DocTemplate=$(PreviewTemplateName);LogFile=$(LogFile);LogLevel=$(LogLevel)"/>
+    <MSBuild Projects="$(BuildProjectPath)" Targets="DocServe" Properties="OutputFolder=$(OutputFolder);IsServing=True;DocTemplate=$(PreviewTemplateName);LogFile=$(LogFile);LogLevel=$(LogLevel)"/>
   </Target>
   <Target DependsOnTargets="RestorePackages" Name="Clean">
     <MSBuild Projects="$(BuildProjectPath)" Targets="DocClean" Properties="DocfxConfigFile=%(DocfxConfigFile.FullPath);OutputFolder=$(OutputFolder);LogFile=$(LogFile);LogLevel=$(LogLevel)"/>
