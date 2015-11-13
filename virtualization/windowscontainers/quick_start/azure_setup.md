@@ -3,7 +3,7 @@ title: Setup Windows Containers in Azure
 
 # Preparing Microsoft Azure for Windows Server Containers
 
-This is a test edit!!! Before creating and managing Windows Server Containers in Azure you will need to deploy a Windows Server 2016 Technical Preview image which has been pre-configured with the Windows Server Containers feature. This guide will walk you through this process.
+12-Nov update.!!! Before creating and managing Windows Server Containers in Azure you will need to deploy a Windows Server 2016 Technical Preview image which has been pre-configured with the Windows Server Containers feature. This guide will walk you through this process.
 
 > Other getting started guides:
   * Run Windows Server Containers in [a new Hyper-V virtual machine](./container_setup.md).

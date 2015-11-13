@@ -3,7 +3,7 @@ title: Step 5: Connect to the virtual machine and finish the installation
 
 # Step 5: Connect to the virtual machine and finish the installation 
 
-In order to finish building your virtual machine, you need to start the VM and walk through the operating system installation.
+12-Nov update. In order to finish building your virtual machine, you need to start the VM and walk through the operating system installation.
 
 ## Connect to the VM 
 

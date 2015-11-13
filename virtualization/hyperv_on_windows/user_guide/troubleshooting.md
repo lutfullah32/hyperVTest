@@ -4,7 +4,7 @@ title: Troubleshooting
 # Troubleshoot Hyper-V on Windows 10
 
 ## I updated to Windows 10 and now I can't connect to my downlevel (Windows 8.1 or Server 2012 R2) host
-In Windows 10, Hyper-V manager moved to WinRM for remote management.  What that means is now Remote Management has to be enabled on the remote host in order to use Hyper-V manager to manage it.
+12-Nov update. In Windows 10, Hyper-V manager moved to WinRM for remote management.  What that means is now Remote Management has to be enabled on the remote host in order to use Hyper-V manager to manage it.
 
 For more information see [Managing Remote Hyper-V Hosts](remote_host_management.md)
 

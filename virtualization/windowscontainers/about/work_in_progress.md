@@ -3,7 +3,7 @@ title: Work in Progress
 
 # Work in Progress
 
-If you don't see your problem addressed here or have questions, post them on the [forum](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers).
+12-Nov update. If you don't see your problem addressed here or have questions, post them on the [forum](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers).
 
 -----------------------
 

@@ -3,7 +3,7 @@ title: Step 1: Make sure your machine is compatible
 
 ## Operating System Compatibility
 
-The Hyper-V role can only be installed on the Pro, Enterprise and Education editions of Windows 10. If you are using the Home, Mobile or Mobile Enterprise edition of Windows 10, the Hyper-V role cannot be used.
+12-Nov update. The Hyper-V role can only be installed on the Pro, Enterprise and Education editions of Windows 10. If you are using the Home, Mobile or Mobile Enterprise edition of Windows 10, the Hyper-V role cannot be used.
 Windows 10 Home edition can be upgraded to Windows 10 Professional. To do so open up settings > Update and Security > Activation. Here you can visit the store and purchase an upgrade.
 
 ## Hardware Compatibility

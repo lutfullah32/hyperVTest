@@ -3,7 +3,7 @@ title: Setup Windows Containers in a local VM
 
 # Preparing Windows Server Technical Preview for Windows Server Containers
 
-In order to create and manage Windows Server Containers, the Windows Server 2016 Technical Preview environment must be prepared. This guide will walk through configuring Windows Server Containers in a Hyper-V Virtual Machine.
+12-Nov update. In order to create and manage Windows Server Containers, the Windows Server 2016 Technical Preview environment must be prepared. This guide will walk through configuring Windows Server Containers in a Hyper-V Virtual Machine.
 
 > Other getting started guides:
   * Run Windows Server Containers in [Azure](./azure_setup.md).

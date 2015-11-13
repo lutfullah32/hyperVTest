@@ -3,7 +3,7 @@ title: Step 2: Install Hyper-V on Windows 10
 
 # Step 2: Install Hyper-V on Windows 10
 
-Before you can begin using virtual machines on Windows 10 you will need to enable the Hyper-V role. This can be done using the Windows 10 graphical user interface, PowerShell or DISM. This documents will walk through each of these.
+12-Nov update. Before you can begin using virtual machines on Windows 10 you will need to enable the Hyper-V role. This can be done using the Windows 10 graphical user interface, PowerShell or DISM. This documents will walk through each of these.
 
 ## Enable Hyper-V Through the GUI
 

@@ -3,7 +3,7 @@ title: Step 3: Create a virtual switch
 
 # Step 3: Create a virtual switch 
 
-A virtual switch allows you to create a network connection for your virtual machine.  They are used just like the network adapter (NIC) on your physical computer.  
+12-Nov update. A virtual switch allows you to create a network connection for your virtual machine.  They are used just like the network adapter (NIC) on your physical computer.  
 
 For this example, we are going to create an External switch.  The external switch will allow your virtual machine to access the host machine's network adapter.  If your host machine is connected to the internet, your virtual machine will be as well. 
  
