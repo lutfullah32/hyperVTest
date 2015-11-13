@@ -2,7 +2,7 @@ ms.ContentId: 6C7EB25D-66FB-4B6F-AB4A-79D6BB424637
 title: Make a new management service
 
 # Make a new management service #
-This is a test. This document introduces VM Services built on Hyper-V sockets and how to get started using them.
+12-Nov update. This is a test. This document introduces VM Services built on Hyper-V sockets and how to get started using them.
 
 ## What is a VM Service?
 Adding this sentence for testing HO-HB process. VM Services are services that span the Hyper-V host and virtual machines running on the host.
