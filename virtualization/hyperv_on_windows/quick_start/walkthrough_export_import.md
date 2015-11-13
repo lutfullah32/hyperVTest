@@ -3,7 +3,7 @@ title: Step 7: Export and import a virtual machine
 
 # Step 7: Export and import a virtual machine 
 
-You can quickly copy a virtual machine or move a virtual machine by using the export and import functionality.
+Test update to validate Bug 451748. You can quickly copy a virtual machine or move a virtual machine by using the export and import functionality.
 
 ## Export the VM 
 
