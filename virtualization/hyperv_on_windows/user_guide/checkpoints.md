@@ -3,7 +3,7 @@ title: Working with checkpoints
 
 # Using checkpoints to revert virtual machines to a previous state
 
-Test update for Demo. Adding this sentence for testing HO-HB process. Checkpoints provide a fast and easy way to revert the virtual machine to a previous state. This is especially helpful when you are about to make a change to a virtual machine and you want to be able to roll-back to the present state if that change cause issues.
+12-Nov update. Test update for Demo. Adding this sentence for testing HO-HB process. Checkpoints provide a fast and easy way to revert the virtual machine to a previous state. This is especially helpful when you are about to make a change to a virtual machine and you want to be able to roll-back to the present state if that change cause issues.
 
 
 ## Enable or disable checkpoints
