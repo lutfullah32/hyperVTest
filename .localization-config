@@ -1,5 +1,5 @@
 {
-  "locales": [ "ja-jp", "de-de", "fr-fr", "zh-cn", "zh-tw", "ko-kr", "es-es" ],
+  "locales": [ "ja-jp", "de-de", "fr-fr", "zh-cn", "zh-tw", "ko-kr", "es-es", "it-it" ],
   "files": [
 	"virtualization/community/*.md",
 	"virtualization/community/**/*.md",
