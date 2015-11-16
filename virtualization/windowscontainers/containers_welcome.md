@@ -9,7 +9,7 @@ The following table list topics that provide more information about Windows cont
 
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
 		<tr valign="top">
-		<td ><center>![](media/try.png)</center></td>
+		<td ><center>![](media/Chat_65.png)</center></td>
 		<td>		
               <p><strong>Get started with Windows Containers</strong></p>
               <p>The following resources will walk you through the deployment, creation, and simple management of Windows Containers.</p>
