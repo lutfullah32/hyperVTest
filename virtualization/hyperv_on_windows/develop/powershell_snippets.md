@@ -3,7 +3,7 @@ title: PowerShell Snippets
 
 # PowerShell Snippets
 
-12-Nov update.Adding this sentence to validate the bug 451132 result. PowerShell is an awesome scripting, automation, and management tool for Hyper-V.  Here is a toolbox for exploring some of the cool things it can do!
+18-Nov update for user scinario part 4B.Adding this sentence to validate the bug 451132 result. PowerShell is an awesome scripting, automation, and management tool for Hyper-V.  Here is a toolbox for exploring some of the cool things it can do!
 
 All Hyper-V management requires running as administrator so assume all scripts and snippets must be run as administrator from a Hyper-V Administrator account.
 
