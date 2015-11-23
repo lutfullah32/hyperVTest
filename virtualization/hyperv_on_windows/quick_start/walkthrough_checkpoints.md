@@ -3,7 +3,7 @@ title: Step 6: Experiment with checkpoints
 
 # Step 6: Experiment with checkpoints 
 
-20-Nov update, Part2. Checkpoints are a helpful tool when you want to save the present state of a virtual machine before making a change such as applying an update, installing software, or changing a setting.  If the change causes issues, you can restore the checkpoint and go back.  
+20-Nov update, Part3. Checkpoints are a helpful tool when you want to save the present state of a virtual machine before making a change such as applying an update, installing software, or changing a setting.  If the change causes issues, you can restore the checkpoint and go back.  
 
 There are two types of checkpoints:  
 **Production checkpoints**: Used mainly on servers in production environments.  
