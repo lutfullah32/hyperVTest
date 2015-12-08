@@ -3,7 +3,7 @@ title: Running Apps in Windows Containers
 
 # Application Compatability in Windows Server Containers
 
-Updating contents on 27-Oct for testing. Adding this sentence for testing HO-HB process. Is something not on this list?  Let us know what fails and succeeds in your environment via [the forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers).
+Updating contents on 8-Dec for testing. Adding this sentence for testing HO-HB process. Is something not on this list?  Let us know what fails and succeeds in your environment via [the forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers).
 
 ## Which applications run in a Windows Server Container
 
